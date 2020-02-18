@@ -24,6 +24,9 @@ Then sync it and download all the videos with
     
 youtube-dl handles if you need to download a video or not and supports download resuming.
 
+yps.py uses -i for youtube-dl to ignore errors
+yps_auth.py uses a cookies.txt file to authenticate e.g. to Youtube/Google
+
 ## License
 
 MIT all the way!
